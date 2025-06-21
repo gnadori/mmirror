@@ -1,18 +1,3 @@
 {
-  "anytime": ["Balkán Tudományok Tanszéke",
-		"Nincs elrontott nyomtatás, csak modern művészet",
-		"Sufni csak pontosan szépen!",
-		"A kócsnak mindig igaza van.",
-		"Ha szikrázik, hadd szikrázzon!",
-		"Nem a nyomtató dübörög, hanem a magyar gazdaság.",
-		"Öltözzetek rétegesen és ne ingereljétek /na nagy, gülüszemű szörnyeket!"],
-  "morning": [
-    "Eki-eki, wapang, wapang!",
-    "Nincs megoldás, mert nincs probléma."
-  ],
-  
-  "evening": [
-    "Muszáj megoldást keresni? /nNem élevezhetjük még egy kicsit a prblémát?",
-    "Viszlát, és kösz a halakat!"
-  ],
+  "anytime": ["Balkán Tudományok Tanszéke"]
 }
