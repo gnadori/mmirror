@@ -1,18 +1,23 @@
 {
-  "anytime": ["Hey there sexy!"],
+  "anytime": ["Balkán Tudományok Tanszéke",
+		"Nincs elrontott nyomtatás, csak modern művészet",
+		"Sufni csak pontosan szépen!",
+		"A kócsnak mindig igaza van.",
+		"Ha szikrázik, hadd szikrázzon!",
+		"Nem a nyomtató dübörög, hanem a magyar gazdaság.",
+		"Öltözzetek rétegesen és ne ingereljétek /na nagy, gülüszemű szörnyeket!"
+    ],
   "morning": [
-    "Good morning, sunshine!",
-    "Who needs coffee when you have your smile?",
-    "Go get 'em, Tiger!"
+    "Eki-eki wapang-wapang!",
+    "Nincs megoldás, mert nincs probléma"
   ],
   "afternoon": [
-    "Hitting your stride!",
-    "You are making a difference!",
-    "You're more fun than bubble wrap!"
+    "Rántott hússal nem megy a kombájn.",
+    "42",
+    "Az élet nem habostorta."
   ],
   "evening": [
-    "You made someone smile today, I know it.",
-    "You are making a difference.",
-    "The day was better for your efforts."
+    "Viszlát, és kösz a halakat!",
+    "Muszáj megoldást keresni?/nNem élvezhetjük még egy kicsit a problémát?"
   ]
 }
